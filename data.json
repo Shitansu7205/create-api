@@ -1,0 +1,20 @@
+[
+    {
+        "name":"shitansu",
+        "roll":100,
+        "branch":"cse"
+    },
+    {
+        "name":"subhransu",
+        "roll":101,
+        "branch":"cse"
+    }, {
+        "name":"subhankar",
+        "roll":102,
+        "branch":"civil"
+    }, {
+        "name":"ankit",
+        "roll":103,
+        "branch":"mech"
+    }
+]
